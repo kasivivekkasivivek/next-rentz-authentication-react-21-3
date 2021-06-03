@@ -8,6 +8,6 @@
 - Integrating APIs
   - Get All Products
 
-login credentials
-name:rahul
-pwd:rahul@2021
+### login credentials
+### name: rahul </br>
+### pwd:rahul@2021
